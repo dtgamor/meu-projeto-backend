@@ -1,0 +1,54 @@
+{
+    "pedidos": [
+        {
+            "item": "cafe",
+            "pago": true,
+            "dataPedido": "2025-01-06"
+        },
+        {
+            "item": "agua",
+            "pago": false,
+            "dataPedido": "2025-08-16"
+        },
+        {
+            "item": "coca-cola",
+            "pago": true,
+            "dataPedido": "2025-02-15"
+        },
+        {
+            "item": "fanta laranja",
+            "pago": true,
+            "dataPedido": "2007-01-06"
+        },
+        {
+            "item": "fanta uva",
+            "pago": false,
+            "dataPedido": "2024-10-06"
+        },
+        {
+            "item": "suco",
+            "pago": true,
+            "dataPedido": "2025-01-26"
+        },
+        {
+            "item": "cotonete",
+            "pago": false,
+            "dataPedido": "2025-10-01"
+        },
+        {
+            "item": "sabonete",
+            "pago": true,
+            "dataPedido": "2025-11-06"
+        },
+        {
+            "item": "shampoo",
+            "pago": true,
+            "dataPedido": "2007-11-04"
+        },
+        {
+            "item": "garrafa",
+            "pago": false,
+            "dataPedido": "2025-01-06"
+        }
+    ]
+}

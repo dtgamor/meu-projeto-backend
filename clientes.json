@@ -1,0 +1,74 @@
+{
+    "usuarios": [
+        {
+            "nome": "Diego",
+            "sobrenome":"Gimenez",
+            "ativo": true,
+            "cidade": "Campinas",
+            "dataNascimento": "1987-01-06"
+        },
+        {
+            "nome": "Joao",
+            "sobrenome":"Jose",
+            "ativo": false,
+            "cidade": "Sumare",
+            "dataNascimento": "1985-01-12"
+        },
+        {
+            "nome": "Maria",
+            "sobrenome":"Silva",
+            "ativo": true,
+            "cidade": "Campinas",
+            "dataNascimento": "1985-03-06"
+        },
+        {
+            "nome": "Pedro",
+            "sobrenome":"Pedrulho",
+            "ativo": false,
+            "cidade": "Sao Paulo",
+            "dataNascimento": "1997-01-16"
+        },
+        {
+            "nome": "Jose",
+            "sobrenome":"Guimaraes",
+            "ativo": false,
+            "cidade": "Hortolandia",
+            "dataNascimento": "2007-01-26"
+        },
+        {
+            "nome": "Douglas",
+            "sobrenome":"Trindade",
+            "ativo": false,
+            "cidade": "Valinhos",
+            "dataNascimento": "1989-01-06"
+        },
+        {
+            "nome": "Gumercindo",
+            "sobrenome":"Amaral",
+            "ativo": true,
+            "cidade": "Campinas",
+            "dataNascimento": "1987-11-06"
+        },
+        {
+            "nome": "Fabio",
+            "sobrenome":"Assunção",
+            "ativo": true,
+            "cidade": "Campinas",
+            "dataNascimento": "1887-01-06"
+        },
+        {
+            "nome": "Fabricio",
+            "sobrenome":"Lima",
+            "ativo": true,
+            "cidade": "Vinhedo",
+            "dataNascimento": "1989-11-16"
+        },
+        {
+            "nome": "Dionisio",
+            "sobrenome":"Amaral",
+            "ativo": true,
+            "cidade": "Campinas",
+            "dataNascimento": "1988-01-06"
+        }
+    ]
+}
